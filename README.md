@@ -7,3 +7,4 @@
       `address` varchar(255) DEFAULT NULL,
       PRIMARY KEY (`id`)
     ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;"# com-demo-database" 
+"# com-demo-database" 
